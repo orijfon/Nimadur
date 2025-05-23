@@ -1,0 +1,63 @@
+body{
+    color: white;
+}
+div{
+    background-color: rgb(16, 150, 16);
+    text-align: center;
+}
+.im1{
+    width: 250px;
+}
+.us1{
+    background-color: rgb(202, 202, 202);
+    text-align: start;
+}
+.h22{
+    color: black;
+}
+.us2{
+    width: 175px;
+    height: 70px;
+    text-align: start;
+}
+.but0{
+    width: 90px;
+    background-color: rgb(17, 179, 17);
+    color: white;
+}
+.img11{
+    border-radius: 10px;
+    width: 290px;
+}
+.tr1{
+    color: black;
+}
+.div005{
+    background-color: rgb(214, 214, 214);
+    text-align: start;
+}
+.map055{
+    width: 100%;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    color: black;
+    width: 100%;
+}
+td{
+    border: 1px black solid;
+}
+.h2323{
+    color: black;
+}
+.p56{
+    color: white;
+    background-color: rgb(94, 49, 17) ;
+    text-align: center;
+}
+.h2626{
+    color: black;
+}
+
+
